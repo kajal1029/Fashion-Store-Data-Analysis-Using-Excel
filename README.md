@@ -17,7 +17,7 @@ This project was based on a dataset of a sales store and the aim was to find the
 
 * Amazon is the most popular brand having 11,016 orders in 2022.
 
-* March was the most profitable month having ₹1.93M sales and 2,819 Orders.
+* March was the most profitable month having ₹1.93M sale and 2,819 Orders.
 
 * Maharashtra holds the first position in the Top 10 States having 4,519 orders.
 
