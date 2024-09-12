@@ -1,19 +1,25 @@
 # Fashion Store Data Analysis Using Excel
-### Objective
-Fashion Store wants to create an annual sales report for 2022. So that, this store can understand their customers and grow more sales in 2023. Implemented an advanced Fashion Store Dashboard using EXCEL.
+### Aim:-
 
-### Sample Insights
-Women are more likely to buy compared to men (~65%)
+This project was based on a dataset of a sales store and the aim was to find the overall insights of it like which brand has the highest orders, how many orders are coming from B2B, how many orders were placed etc.
 
-Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
+### Process:-
 
-Adult age group (30-49 yrs) is max contributing (~50%)
+To perform accurate analysis and fetch useful insights, I viewed the data and came forward to fight the missing and abnormality in data.
+After making the data crystal clear for analysis, I took out the basic insights of the dataset with the help of Descriptive Statistical analysis such as Total Sales, Average Sales, Unique Product Categories, Minimum and Maximum Sales, Midpoint of Data, etc.
+The next step was to analyze the data by taking a deep dive into it with the help of Pivot Table. I created numerous tables to fetch all the important insights such as *Top 10 States, Orders by Brands, Orders and Sales by Months, B2B orders, Average Amount by Gender and Age-Group, Max Orders by Gender, Product Sizes, and Categories.
+Then comes my favorite step creating a dashboard full of useful insights. I arranged all of them and used storytelling to make the crucial insights speak clearly with the help of Pivot Charts.
 
-Amazon, Flipkart and Myntra channels are max contributing (~80%)
+### Important Insights:-
 
-### Final Conclusion to improve Fashion store sales:
-Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
-
-
+Amazon is the most popular brand having 11,016 orders in 2022.
+March was the most profitable month having ₹1.93M sales and 2,819 Orders.
+Maharashtra holds the first position in the Top 10 States having 4,519 orders.
+Adults spent a little higher as compared to Senior Citizens.
+Approximately 28,600 orders were delivered out of 31,047 orders.
+Around 0.96% of orders were coming from B2B.
+69.4% of orders were ordered by Women.
+In 2022, a total of 31,047 orders were placed having sales of ₹21.07 million.
+Store having ₹682.07 average sales with 11 product sizes and 8 product categories.
 
 
