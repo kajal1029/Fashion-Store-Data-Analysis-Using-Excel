@@ -31,6 +31,6 @@ This project was based on a dataset of a sales store and the aim was to find the
 
 * In 2022, a total of **31,047 orders** were placed having sales of **₹21.07 million.**
 
-* Store having **₹682.07 average sales** with **11 product sizes** and** 8 product categories.**
+* Store having **₹682.07 average sales** with **11 product sizes** and **8 product categories.**
 
 
