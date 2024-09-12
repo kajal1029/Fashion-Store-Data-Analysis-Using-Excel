@@ -5,9 +5,9 @@ This project was based on a dataset of a sales store and the aim was to find the
 
 ### Process:-
 
-To perform accurate analysis and fetch useful insights, I viewed the data and came forward to fight the missing and abnormality in data.
+* To perform accurate analysis and fetch useful insights, I viewed the data and came forward to fight the missing and abnormality in data.
 
-After making the data crystal clear for analysis, I took out the basic insights of the dataset with the help of Descriptive Statistical analysis such as Total Sales, Average Sales, Unique Product Categories, Minimum and Maximum Sales, Midpoint of Data, etc.
+- After making the data crystal clear for analysis, I took out the basic insights of the dataset with the help of Descriptive Statistical analysis such as Total Sales, Average Sales, Unique Product Categories, Minimum and Maximum Sales, Midpoint of Data, etc.
 
 The next step was to analyze the data by taking a deep dive into it with the help of Pivot Table. I created numerous tables to fetch all the important insights such as *Top 10 States, Orders by Brands, Orders and Sales by Months, B2B orders, Average Amount by Gender and Age-Group, Max Orders by Gender, Product Sizes, and Categories.
 
