@@ -15,22 +15,22 @@ This project was based on a dataset of a sales store and the aim was to find the
 
 ### Important Insights:-
 
-* Amazon is the most popular brand having 11,016 orders in 2022.
+* **Amazon** is the most popular brand having **11,016 orders** in 2022.
 
-* March was the most profitable month having ₹1.93M sale and 2,819 Orders.
+* **March** was the most profitable month having **₹1.93M sale** and **2,819 Orders.**
 
-* Maharashtra holds the first position in the Top 10 States having 4,519 orders.
+* **Maharashtra** holds the first position in the **Top 10 States** having **4,519 orders.**
 
-* Adults spent a little higher as compared to Senior Citizens.
+* **Adults** spent a little higher as compared to Senior Citizens.
 
-* Approximately 28,600 orders were delivered out of 31,047 orders.
+* Approximately **28,600 orders** were delivered out of 31,047 orders.
 
-* Around 0.96% of orders were coming from B2B.
+* Around **0.96% of orders** were coming from **B2B.**
 
-* 69.4% of orders were ordered by Women.
+* **69.4% of orders** were ordered by **Women.**
 
-* In 2022, a total of 31,047 orders were placed having sales of ₹21.07 million.
+* In 2022, a total of **31,047 orders** were placed having sales of **₹21.07 million.**
 
-* Store having ₹682.07 average sales with 11 product sizes and 8 product categories.
+* Store having **₹682.07 average sales** with **11 product sizes** and** 8 product categories.**
 
 
