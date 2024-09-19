@@ -27,7 +27,7 @@ This project was based on a dataset of a sales store and the aim was to find the
 
 * Approximately **28,600 orders** were delivered out of 31,047 orders.
 
-* Around **0.96% of orders** were coming from **B2B.**
+* Around **1% of orders** were coming from **B2B.**
 
 * **69.4% of orders** were ordered by **Women.**
 
