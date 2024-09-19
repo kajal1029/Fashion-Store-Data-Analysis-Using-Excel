@@ -1,6 +1,6 @@
 # Fashion Store Data Analysis Using Excel
 
-![Screenshot 2024-09-12 210223](https://github.com/user-attachments/assets/a8c5d806-bd75-48a3-ae19-3643eaac9626)
+![Screenshot 2024-09-12 210223](https://github.com/user-attachments/assets/a8c5d806-bd75-48a3-ae19-3643eaac9626) 
 ### Aim:-
 
 This project was based on a dataset of a sales store and the aim was to find the overall insights of it like which brand has the highest orders, how many orders are coming from B2B, how many orders were placed etc.
