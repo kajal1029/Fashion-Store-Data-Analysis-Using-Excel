@@ -35,7 +35,7 @@ This project was based on a dataset of a sales store and the aim was to find the
 
 * Store having **₹682.07 average sales** with **11 product sizes** and **8 product categories.**
 
-** Final conclusion to improve Vrinda store sales : **
-Target *women customer of age group(30-49yrs) living in maharashtra,Kranataka and Uttar Pradesh by showing ads/offers/cupons available on Amazon,Flipkart And Myntra 
+# Final conclusion to improve Vrinda store sales : **
+Target * women customer of age group(* 30-49 *yrs) living in * maharashtra,Kranataka and Uttar Pradesh * by showing ads/offers/cupons available on * Amazon,Flipkart And Myntra *
 
 
